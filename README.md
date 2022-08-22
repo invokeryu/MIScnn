@@ -37,7 +37,9 @@ Finally, the evaluation script computes all scores, visualizations and figures.
 ```sh
 python3 scripts/run_evaluation.py
 ```
+为了计算pyradiomics分数，运行
 
-
+```sh
+python3 scripts/run_feature_extraction.py
 ```
 
